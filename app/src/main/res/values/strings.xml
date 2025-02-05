@@ -1,9 +1,11 @@
 <resources>
     <string name="app_name">RegistrationPage</string>
     <string name="greeting">Привіт, реєстрація тута!</string>
-    <string name="log">Логіна тута!</string>
+    <string name="log">Твій логіна тута!</string>
     <string name="email">Імейла тута!</string>
     <string name="pass">Чарівне слово!</string>
     <string name="butt">Реєстрація</string>
+    <string name="Login">Логін-шмогін</string>
+    <string name="auth">Тиць</string>
 
 </resources>
