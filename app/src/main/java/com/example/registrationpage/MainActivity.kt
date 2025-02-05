@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
 
         linkToAuth.setOnClickListener {
             val intent = Intent(this, AuthActivity::class.java)
-            startActivity(intent)
+            startActivity(intent) }
 
         button.setOnClickListener {
             val login = userLogin.text.toString().trim()
